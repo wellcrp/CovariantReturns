@@ -1,0 +1,13 @@
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\bin\Debug\netcoreapp3.1\Project_CarroPessoa.exe
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\bin\Debug\netcoreapp3.1\Project_CarroPessoa.deps.json
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\bin\Debug\netcoreapp3.1\Project_CarroPessoa.runtimeconfig.json
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\bin\Debug\netcoreapp3.1\Project_CarroPessoa.runtimeconfig.dev.json
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\bin\Debug\netcoreapp3.1\Project_CarroPessoa.dll
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\bin\Debug\netcoreapp3.1\Project_CarroPessoa.pdb
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.dll
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.pdb
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.genruntimeconfig.cache
+E:\CodeBox\Project-Estudos\C#\A3-C#9.0\Project_Covariant_Returns\CarroPessoa\Project_CarroPessoa\obj\Debug\netcoreapp3.1\Project_CarroPessoa.csprojAssemblyReference.cache
