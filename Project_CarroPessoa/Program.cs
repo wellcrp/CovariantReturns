@@ -8,17 +8,27 @@ namespace Project_CarroPessoa
         static void Main(string[] args)
         {
             #region Instanciando, percorrendo e preenchendo OBJETO PessoaCartorio
-            var pessoaCad = new PessoaCartorio(new Pessoa[]
-            {
-                new Pessoa() { PessoaId = 1, PessoaNome = "Wellington", CarroId = 1, CarroNome ="Astra", CartorioNome = "Tabelião Teste 1"},
-                new Pessoa() { PessoaId = 2, PessoaNome = "Wellington Cristiano", CarroId = 2, CarroNome ="Omega", CartorioNome = "Tabelião Teste 2"},
+
+            var pessoaCad = new PessoaCartorio(new Pessoa[] {
+                new Pessoa { PessoaNome ="Wellington" },
+                new Pessoa { PessoaNome ="Wellington Cristiano" },
             });
 
-            foreach (var per in pessoaCad.ListaVinculo())
+            foreach (var per in pessoaCad.ListaRegistro())
             {
-
-                Console.WriteLine($"O cidadão {per.PessoaNome} Registrou o carro no cartorio chamado {per.CartorioNome} possui o carro {per.CarroNome}");
+                Console.WriteLine($"O cidadão {((Pessoa)per).PessoaNome}");
             }
+
+            var carroCart = new CarroCartorio(new Carro[] {
+                new Carro {CarroNome = "Corsa", CartorioNome = "Cartorio 1"},
+                new Carro { CarroNome = "Fiesta", CartorioNome = "Cartorio 2"},
+            });
+
+            foreach (var car in carroCart.ListaRegistro())
+            {
+                Console.WriteLine($"comprou o carro de nome {((Carro)car).CarroNome} Registrou o carro no cartorio na cidade de {car.CartorioNome} na cidade {car.CartorioCidade}");
+            }
+
             #endregion
 
             Console.ReadLine();
